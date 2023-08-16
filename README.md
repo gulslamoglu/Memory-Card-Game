@@ -36,6 +36,13 @@ Bu proje, Harry Potter evreninde geçen eğlenceli bir hafıza kartı oyununu An
 - RecyclerView ve ConstraintLayout
 - Ses efektleri: "prologue.mp3", "congratulations.mp3", "wheels.mp3", "finish.mp3"
 
+## Ekran Görüntüleri
+
+![Ekran görüntüsü](https://github.com/gulslamoglu/Memory-Card-Game/blob/master/memory%20game%201.png)
+![Ekran görüntüsü](https://github.com/gulslamoglu/Memory-Card-Game/blob/master/memory%20game%203.png)
+![Ekran görüntüsü](https://github.com/gulslamoglu/Memory-Card-Game/blob/master/memory%20game%204.png)
+![Ekran görüntüsü](https://github.com/gulslamoglu/Memory-Card-Game/blob/master/memory%20game%205.png)
+
 ## Katkıda Bulunma
 
 Bu proje açık kaynaklıdır ve katkıda bulunmaktan mutluluk duyarız. Eğer projeye katkı sağlamak isterseniz:
