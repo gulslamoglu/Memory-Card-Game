@@ -1,6 +1,6 @@
 # Harry Potter Temalı Hafıza Kartı Oyunu
 
-<img src=""https://github.com/gulslamoglu/Memory-Card-Game/blob/master/memory%20fame%202.png">
+![Ekran görüntüsü](https://github.com/gulslamoglu/Memory-Card-Game/blob/master/memory%20fame%202.png)
 
 Bu proje, Harry Potter evreninde geçen eğlenceli bir hafıza kartı oyununu Android platformunda uygulayan bir mobil uygulamadır.
 
