@@ -1,6 +1,6 @@
 # Harry Potter Temalı Hafıza Kartı Oyunu
 
-![Oyun Ekran Görüntüsü](/screenshots/game_screenshot.png)
+![Oyun Ekran Görüntüsü]("C:\Users\Gül\OneDrive\Masaüstü\memory fame 2.png")
 
 Bu proje, Harry Potter evreninde geçen eğlenceli bir hafıza kartı oyununu Android platformunda uygulayan bir mobil uygulamadır.
 
