@@ -1,63 +1,96 @@
-# Harry Potter Temalı Hafıza Kartı Oyunu
+# Harry Potter Memory Card Game
 
-![Ekran görüntüsü](https://github.com/gulslamoglu/Memory-Card-Game/blob/master/memory%20fame%202.png)
+Welcome to the Harry Potter Memory Card Game! This Android application is designed to test your memory and matching skills with a fun Harry Potter theme. Match the cards correctly within the specified time to win.
 
-Bu proje, Harry Potter evreninde geçen eğlenceli bir hafıza kartı oyununu Android platformunda uygulayan bir mobil uygulamadır.
+## Table of Contents
 
-## Özellikler
+- [Introduction](#introduction)
+- [Photos from the game](photos-from-the-game)
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Technical and Soft Skills](#technical-and-soft-skills)
+- [Contributing](#contributing)
+- [License](#license)
 
-- Kolay, Orta ve Zor olmak üzere üç farklı zorluk seviyesi seçeneği.
-- Özelleştirilebilir oyun alanı boyutları ile kendi oyun tahtanızı oluşturma seçeneği.
-- Kartları çevirirken ses efektleri.
-- Firebase Authentication ile kullanıcı girişi.
-- Başarı ekranında tebrik ses efekti.
+## Introduction
 
-## Nasıl Çalışır?
+The Harry Potter Memory Card Game is an Android application that challenges players to match cards with Harry Potter characters while testing their memory and cognitive skills. With different difficulty levels and a time limit, the game offers an entertaining experience for Harry Potter fans of all ages.
 
-1. Oyun başladığında, kullanıcıya zorluk seviyesi seçenekleri sunulur.
-2. Kullanıcı, istediği zorluk seviyesini seçebilir veya kendi oyun tahtasını oluşturabilir.
-3. Oyun tahtası oluşturulduktan sonra, kartlar karıştırılır ve kapalı olarak görüntülenir.
-4. Kullanıcı kartlara tıklayarak onları çevirir ve eşleşen kartları bulmaya çalışır.
-5. Tüm kartlar eşleştirildiğinde veya zaman dolduğunda, oyun sona erer.
-6. Kullanıcı, oyun sonu ekranında başarısını görür ve istediği zaman yeni bir oyun başlatabilir.
+## Photos from the game
 
-## Kurulum
+<p>Easy Mode:</p>
 
-1. Bu projeyi klonlayın veya indirin.
-2. Android Studio'da projeyi açın.
-3. Firebase Console'da yeni bir proje oluşturun ve projenin google-services.json dosyasını projenizin "app" klasörüne ekleyin.
-4. Uygulamayı cihazınıza veya emülatörünüze yükleyin ve çalıştırın.
+![Screenshot1](https://github.com/tugbaguneyy/Memory-Card-Game/blob/master/memory%20game%201.png)
 
-## Kullanılan Teknolojiler ve Kaynaklar
+<p>Medium Mode:</p>
 
-- Kotlin programlama dili
-- Android Studio
-- Firebase Authentication
-- RecyclerView ve ConstraintLayout
-- Ses efektleri: "prologue.mp3", "congratulations.mp3", "wheels.mp3", "finish.mp3"
+![Screenshot2](https://github.com/tugbaguneyy/Memory-Card-Game/blob/master/memory%20fame%202.png)
 
-## Ekran Görüntüleri
+<p>Hard Mode:</p>
 
-![Ekran görüntüsü](https://github.com/gulslamoglu/Memory-Card-Game/blob/master/memory%20game%201.png)
-![Ekran görüntüsü](https://github.com/gulslamoglu/Memory-Card-Game/blob/master/memory%20game%203.png)
-![Ekran görüntüsü](https://github.com/gulslamoglu/Memory-Card-Game/blob/master/memory%20game%204.png)
-![Ekran görüntüsü](https://github.com/gulslamoglu/Memory-Card-Game/blob/master/memory%20game%205.png)
+![Screenshot3](https://github.com/tugbaguneyy/Memory-Card-Game/blob/master/memory%20game%203.png)
 
-## Katkıda Bulunma
+<p>Sign in Screen:</p>
 
-Bu proje açık kaynaklıdır ve katkıda bulunmaktan mutluluk duyarız. Eğer projeye katkı sağlamak isterseniz:
+![Screenshot4](https://github.com/tugbaguneyy/Memory-Card-Game/blob/master/memory%20game%204.png)
 
-1. Bu projeyi forklayın.
-2. Yeni bir dal (branch) oluşturun: `git checkout -b yeni-ozellik`
-3. Yaptığınız değişiklikleri commit'leyin: `git commit -m 'Yeni özellik: ...'`
-4. Değişikliklerinizi uzak sunucuya gönderin: `git push origin yeni-ozellik`
-5. Bir Pull Talebi (Pull Request) oluşturun.
+<p>Sign up Screen:</p>
 
-## Lisans
+![Screenshot5](https://github.com/tugbaguneyy/Memory-Card-Game/blob/master/memory%20game%205.png)
+## Features
 
-Bu proje [MIT Lisansı](/LICENSE) altında lisanslanmıştır.
+- Match cards featuring Harry Potter characters.
+- Three levels of difficulty: Easy, Medium, and Hard.
+- Timer to complete the matching within a set time.
+- User-friendly interface with a Harry Potter theme.
+
+## Technologies Used
+
+- **Android with Kotlin**: Developing the Android application.
+- **Firebase**: Cloud computing technology for user authentication and storage.
+- **LaTeX**: Used for report writing and documentation.
+
+## Installation
+
+1. Clone this repository: `git clone https://github.com/YOUR_USERNAME/PROJECT_REPO.git`
+2. Open the project in Android Studio.
+3. Set up your Firebase project and update the Firebase configuration.
+4. Build and run the application on an Android emulator or device.
+
+## Usage
+
+1. Launch the application on your Android device.
+2. Navigate through the menu to select your desired difficulty level.
+3. Match the cards correctly before the timer runs out.
+
+## Technical and Soft Skills
+
+### Technical Skills
+
+- Android application development using Kotlin.
+- Integration of Firebase for user authentication and data storage.
+
+### Soft Skills
+
+- Time management to complete the game within the specified time.
+- Report writing for documenting the project.
+- Logical and critical thinking for designing game mechanics.
+- Teamwork in collaboration with fellow developers and designers.
+
+## Contributing
+
+1. Fork this repository.
+2. Create a new feature branch: `git checkout -b new-feature`
+3. Commit your changes: `git commit -am 'Added new feature: DESCRIPTION'`
+4. Push to your branch: `git push origin new-feature`
+5. Create a Pull Request.
+
+## License
+
+This project is licensed under the MIT License. For more information, refer to the [LICENSE](LICENSE.md) file.
 
 ---
 
-Bu README dosyası, projenizi anlamak ve kullanmak isteyenlere rehberlik etmek için tasarlanmıştır. Herhangi bir sorunuz veya geri bildiriminiz varsa, lütfen iletişime geçmekten çekinmeyin.
-
+This README provides an overview of the Harry Potter Memory Card Game project. Customize it further with project-specific details.
